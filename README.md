@@ -24,7 +24,7 @@ Ensure the following are installed:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ALIENSSH.git && cd ALIENSSH
+   git clone https://github.com/bitkeyhash/ALIENSSH.git && cd ALIENSSH
    ```
 
 2. Make the scripts executable:
