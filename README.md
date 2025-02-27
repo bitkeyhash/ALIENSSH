@@ -66,7 +66,7 @@ Ensure the following are installed:
   - Execute system update commands.
   - Maintain an interactive session after completing task.
 
-### `time.py'
+### `time.py`
 - Running script 24/24 printing time second value inside instance ssh.
 ---
 
