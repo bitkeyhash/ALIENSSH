@@ -36,7 +36,7 @@ Ensure the following are installed:
 
 
    
-   chmod +x alien.sh seg.sh
+   chmod +x aliens.sh seg.sh
    ```
 
 ---
@@ -45,7 +45,7 @@ Ensure the following are installed:
 
 1. Run the main script:
    ```
-   ./alien.sh
+   ./aliens.sh
    ```
 
 2. The script will:
@@ -57,7 +57,7 @@ Ensure the following are installed:
 
 ## Script Details
 
-### `alien.sh`
+### `aliens.sh`
 - Executes `seg.sh` to handle the SSH automation.
 
 ### `seg.sh`
