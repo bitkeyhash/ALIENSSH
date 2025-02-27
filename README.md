@@ -8,6 +8,7 @@
 
 - **Automated SSH Segfault Connection**: Connects to the remote server using SSH without manual input.
 - **Command Execution**: Automatically runs commands such as `apt update` and `apt upgrade`.
+- **No Sleeping Execution**: Adding a script python for 24/24 server by print time each second.
 ---
 
 ## Prerequisites
@@ -15,6 +16,7 @@
 Ensure the following are installed:
 - **Bash**: For running the main script.
 - **Expect**: Required for automating SSH interactions (`sudo apt install expect` on Debian-based systems).
+- **Python**: For running the No sleep Script.
 
 ---
 
@@ -49,6 +51,7 @@ Ensure the following are installed:
 2. The script will:
    - Automatically connect to `segfault.net` via SSH.
    - Execute predefined commands on the server.
+   - Running 24/24 with python script No sleep.
 
 ---
 
@@ -63,6 +66,8 @@ Ensure the following are installed:
   - Execute system update commands.
   - Maintain an interactive session after completing task.
 
+### `time.py'
+- Running script 24/24 printing time second value inside instance ssh.
 ---
 
 ## Notes
