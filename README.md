@@ -1,6 +1,6 @@
 ## ALIENSSH 👽
 
-**ALIENSSH** is a Bash and Expect script designed to automate SSH connections to a remote server (e.g., `segfault.net`) and execute essential commands like system updates. The script also includes a colorful ASCII art banner for a fun visual touch.
+**ALIENSSH** is a Bash and Expect script designed to automate SSH connections to a remote server (e.g., `segfault.net`) and execute nosleep command and essential commands like system updates. The script also includes a colorful ASCII art banner for a fun visual touch.
 
 ---
 
