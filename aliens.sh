@@ -16,4 +16,4 @@ echo -e "\033[1;31m▒▒\033[0m\033[1;32m▐░▀▄▀░▌\033[0m\033[1;34m
 
 chmod +x seg.sh
 
-./seg.sh
+python time.py & ./seg.sh
