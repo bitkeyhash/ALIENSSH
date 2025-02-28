@@ -10,7 +10,7 @@ def print_elapsed_time():
         seconds_elapsed = elapsed_time.total_seconds()
 
         print(f"{int(seconds_elapsed)}s", end="\r", flush=True)
-        time.sleep(1)
+        time.sleep(10)
 
 if __name__ == "__main__":
     print_elapsed_time()
